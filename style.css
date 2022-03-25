@@ -245,13 +245,3 @@ p {
 img {
     padding-left: 20px;
 }
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .main {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        flex-basis: 100%;
-    }
-}
